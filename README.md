@@ -3,16 +3,18 @@ This is autoinstall GenieACS
 
 # Usage
 ```
-apt install git curl -y
+
+sudo apt install git curl -y
 ```
 ```
-git clone https://github.com/brayenKenzi/genieacs
+
+sudo git clone https://github.com/brayenKenzi/genieacs
 ```
 ```
 cd genieacs
 ```
 ```
-chmod +x install.sh && chmod +x darkmode.sh
+sudo chmod +x install.sh && chmod +x darkmode.sh
 ```
 ```
 chmod +x install-stb.sh
@@ -27,7 +29,8 @@ bash install-stb.sh
 ```
 INSTALL GENIEACS THEMA ORIGINAL v@1.2.13
 ```
-bash install.sh
+
+sudo bash install.sh
 ```
 
 Baca terlebih dahulu !!!
