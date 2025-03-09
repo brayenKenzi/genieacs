@@ -3,6 +3,9 @@ This is autoinstall GenieACS
 
 # Usage
 ```
+sudo apt update && sudo apt upgrade
+```
+```
 
 sudo apt install git curl -y
 ```
